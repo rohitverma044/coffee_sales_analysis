@@ -5,7 +5,7 @@
 This project focuses on **Exploratory Data Analysis (EDA)** of coffee sales data to understand **sales trends, revenue patterns, product performance, and customer behavior**.
 The analysis is performed using **Python** and data visualization libraries to extract meaningful business insights.
 
----
+
 
 # Objectives
 
@@ -82,8 +82,3 @@ The dataset contains information related to coffee sales such as:
 
 This project demonstrates how **data analysis and visualization** can be used to understand business performance and support decision-making.
 It helped strengthen my skills in **Python, data cleaning, EDA, and visualization**, and reflects real-world data analysis workflow.
-
----
-
-Just tell me 👍
-
